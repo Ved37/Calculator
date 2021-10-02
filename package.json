@@ -1,0 +1,24 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "This is my first web development project learining git and node",
+  "main": "main_calc.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ved37/Calculator.git"
+  },
+  "author": "Ved",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ved37/Calculator/issues"
+  },
+  "homepage": "https://github.com/Ved37/Calculator#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
